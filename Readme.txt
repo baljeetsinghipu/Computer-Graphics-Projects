@@ -1,6 +1,6 @@
 # Project Title
 
-Assignment-2
+Tetris Game
 
 ## Getting Started
 
